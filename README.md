@@ -1,2 +1,3 @@
-# cmake-notes
-Notes and useful commands of cmake
+# cmake notes
+
+`CMakeLists.txt` file is main point of cmake.
